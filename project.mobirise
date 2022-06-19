@@ -30,7 +30,8 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#08aa5e"
+        "#08aa5e",
+        "#056136"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -66,8 +67,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Interactive Session with Social Media Influencers, Bloggers and Image Managers",
-        "meta_descr": "ICT Directorate, Program No.14 @ 2022\nElightenment on Federal Government regulation on the use of Social Media for Public Institutions in Nigeria \n\n",
+        "title": "AWARENESS CAMPAIGN ON CYBER FRAMEWORKS, POLICIES AND REGULATIONS IN NIGERIA",
+        "meta_descr": "ICT Directorate, Program No.14 @ 2022\n‘Interactive Session with 100 Stakeholders in Sokoto State’\n-Bloggers \n-Influencers \n-Image Managers \n-Social Media Users",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
